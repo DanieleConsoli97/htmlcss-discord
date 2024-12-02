@@ -1,15 +1,10 @@
 .flex{
     display: flex;
 }
-header{
 
-    margin: 0 auto
-}
-header nav{
-
-    height: 90px;
+header nav{ 
     background-color:#295fe7;
-
+    padding: 2%;
 }
 header article{
 
@@ -17,8 +12,8 @@ background-image: url(../img/jumbo.png);
 background-size:cover;
 background-repeat: no-repeat;
 background-position: center;
-
-
+padding-block:10% ;
+padding-inline: 25%;
 }
 
 .jus-con-ar{
@@ -42,21 +37,28 @@ header nav aside span{
 }
 
 
-header nav button{
-    height: 40px;
+.set-btn{
     border-radius: 20px ;
     border:0;
-    flex-basis: 10%;
+    padding: 10px;
+
+    
 }
 
+.btn-col{
+    background-color:#23272a;
+    color:white;
+
+
+}
 .al-it-cen{
 align-items:center ;
 }
 
-header article.flex div {
-height:300px;
-background-color: aqua;
-flex-basis:60% ;
+header article {
+
+text-align: center;
+color: white;
 }
 
 main{
