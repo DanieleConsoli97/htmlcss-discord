@@ -88,20 +88,18 @@ footer{
 }
 
 
+.ali-mid{
+
+    vertical-align: middle;
+
+}
 .foodiv{
-    
- 
-   
+
+   color: white;
     margin-left: 10px;
 
 }
-.foodiv1{
-    
- 
-    
-  
 
-}
 .container{
 
     background-image: url(../img/stars.svg);
@@ -133,4 +131,34 @@ padding-inline:0px ;
 .img-size{
    height: 20px;
     width:  auto;
+}
+.classtitlefoot h3{
+
+    color:#7289da;
+
+}
+
+.pad-30{
+
+    padding-block: 30px ;
+
+}
+.jus-con-bet{
+
+    justify-content: space-between;
+}
+.textcont{
+
+   color: white;
+  
+}
+
+.mar-bottom{
+
+    margin-bottom: 20px;
+}
+.mar-top{
+
+    margin-top: 20px;
+
 }
