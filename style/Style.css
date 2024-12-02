@@ -48,8 +48,6 @@ header nav aside span{
 .btn-col{
     background-color:#23272a;
     color:white;
-
-
 }
 .al-it-cen{
 align-items:center ;
@@ -108,6 +106,25 @@ footer div{
 
     background-image: url(../img/stars.svg);
     background-repeat: no-repeat;
-    background-size: cover;
-   
+    background-size: contain;
+    
+    background-position: center;
+    margin-block: 5%;
+}
+
+#marginp{
+
+padding-block:10px;
+padding-inline:0px ; 
+
+}
+
+
+.btn-col1{
+    background-color:#7289da;
+    color:white;
+    border: 0px;
+    border-radius: 20px;
+    padding: 10px;
+
 }
