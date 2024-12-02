@@ -1,6 +1,10 @@
 .flex{
     display: flex;
 }
+header{
+
+    margin: 0 auto
+}
 header nav{
 
     height: 90px;
@@ -9,8 +13,11 @@ header nav{
 }
 header article{
 
-height:500px;
-background-color: blue;
+background-image: url(../img/jumbo.png);
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+
 
 }
 
