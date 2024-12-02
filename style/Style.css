@@ -83,25 +83,25 @@ text-align: center;
 
 }
 footer{
-    height: 400px;
-    background-color: gray;
     padding: 0 10% 0 10%;
+    background-color:#23272a ;
 }
-footer div{
 
-    background-color: aqua;
-    margin-left: 10px;
-    height: 100%;
-}
 
 .foodiv{
-    height: 50px;
-    flex-basis: 10%;
-    background-color:chocolate;
+    
+ 
+   
     margin-left: 10px;
 
 }
+.foodiv1{
+    
+ 
+    
+  
 
+}
 .container{
 
     background-image: url(../img/stars.svg);
@@ -127,4 +127,10 @@ padding-inline:0px ;
     border-radius: 20px;
     padding: 10px;
 
+}
+
+
+.img-size{
+   height: 20px;
+    width:  auto;
 }
