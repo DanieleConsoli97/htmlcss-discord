@@ -1,16 +1,11 @@
 .flex{
     display: flex;
 }
-
-header{
-
-    height: 590px;
-    }
 header nav{
 
     height: 90px;
     background-color:#295fe7;
-   
+
 }
 header article{
 
@@ -32,17 +27,18 @@ header nav picture{
     flex-basis: 10%;
    
 }
-
-header nav aside{
-    height: 40px;
-    flex-basis: 50%;
-    background-color: blueviolet;
-
+header nav aside span{
+   
+    margin-right: 20px;
+    color: white;
+    
 }
 
 
 header nav button{
     height: 40px;
+    border-radius: 20px ;
+    border:0;
     flex-basis: 10%;
 }
 
