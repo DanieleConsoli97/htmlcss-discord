@@ -73,12 +73,17 @@ main{
     font-size: 50px;
      padding-block:30px ;
 }
-.fl-dir-col{
-    flex-direction: column;
-    text-align: justify;
+
+.textcontainer4 h1{
+    font-size: 50px;
+     padding-block:30px ;
+     
 }
+.txtal{
 
+text-align: center;
 
+}
 footer{
     height: 400px;
     background-color: gray;
@@ -97,4 +102,12 @@ footer div{
     background-color:chocolate;
     margin-left: 10px;
 
+}
+
+.container{
+
+    background-image: url(../img/stars.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
 }
