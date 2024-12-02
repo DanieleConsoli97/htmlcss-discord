@@ -9,7 +9,7 @@ header{
 header nav{
 
     height: 90px;
-    background-color: red;
+    background-color:#295fe7;
    
 }
 header article{
@@ -28,9 +28,9 @@ background-color: blue;
 justify-content: center;
 }
 header nav picture{
-    height: 40px;
+   
     flex-basis: 10%;
-    background-color: black;
+   
 }
 
 header nav aside{
