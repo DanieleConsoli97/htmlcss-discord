@@ -62,25 +62,13 @@ color: white;
 }
 
 main{
-
-    padding: 0 20% 0 20%;
-
+   
+    padding-inline: 10%;
 }
-main div{
-background-color: black;
-height: 200px;
-margin: 0 0 10px 0;
-}
+.textcontainer h1{
+   font-size: 90px;
+    padding-block:30px ;
 
-main div picture{
-
-    background-color: violet;
-    flex-basis: 20%;
-}
-.containertext{
-
-    background-color:darkgreen;
-    flex-basis: 20%;
 }
 .fl-dir-col{
     flex-direction: column;
